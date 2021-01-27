@@ -1,0 +1,237 @@
+@import url(reset.css);
+
+.header-section {
+	width: 1440px;
+	height: 140px;
+	background-color: white;
+	background-size: contain;
+	position: fixed;
+	display: flex;
+	left:0px;
+	top: 0px;
+}
+
+.header-text {
+	width: 120px;
+	height: 40px;
+	margin: auto;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	line-height: 57px;
+	display: flex;
+	align-items: center;
+	color: #E50043;
+
+}
+
+.links {
+	
+	height: 30px;
+	margin: auto;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	line-height: 57px;
+	display: flex;
+	align-items: center;
+	color: #E50043;
+}
+
+.a-one {
+	width: 130px;
+	padding-left: 620px;
+}
+
+.a-two {
+	width: 130px;
+	padding-left: 25px;
+}
+
+.a-three {
+	width: 130px;
+	padding-left: 25px;
+}
+
+.mountain {
+	margin-top: 140px;
+	width: 1440px;
+	height: 950px;
+	display: flex;
+	background-size: cover;
+	background-image: url(../img/mountain.png);
+	background-position: center;
+}
+
+.name {
+	margin: auto;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	line-height: 115px;
+	align-items: center;
+	text-align: center;
+	color: #E50043;
+
+}
+
+.description {
+	height: 610px;
+	width: 1440px;
+	display: flex;
+}
+
+.border {
+	width: 1040px;
+	height: 310px;
+	padding: 24px;
+	background-color: white;
+	border: 5px solid #F8BFC7;
+	box-sizing: border-box;
+	border-radius: 20px;
+	margin-top: 150px;
+	margin-left: 200px;
+	display: flex;
+}
+
+.water {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.05em;
+
+	color: #000000;
+}
+
+.bottles {
+	width: 1440px;
+	height: 900px;
+	display: flex;
+	text-align: center;
+}
+
+.bottle-one {
+	margin-left: 200px;
+	margin-right: 100px;
+}
+
+.bottle-two {
+	margin-right: 100px;
+}
+
+
+.bottles-name {
+	margin-top: 21px;
+	width: 1440px;
+	display: flex;
+}
+
+.wang  {
+	width: 250px;
+	height: 58px;
+	margin-left: 220px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	color: #000000;
+}
+
+
+.blue {
+	width: 249px;
+	height: 58px;
+	margin-left: 130px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	color: #000000;
+
+}
+
+.chiara {
+	width: 237px;
+	height: 58px;
+	margin-left: 135px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	color: #000000;
+}
+
+.ph	{
+	height: 610px;
+	width: 1440px;
+	display: flex;
+}
+
+.properties {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.05em;
+
+	color: #000000;
+	margin:auto; 
+	padding-left: 60px;
+}
+
+img.glass {
+	width: 101px;
+	height: 220px;
+	padding-left: 40px;
+	margin: auto;
+}
+
+footer {
+	width: 1440px;
+	height: 140px;
+	background: #F8BFC7;
+	display: flex;
+}
+
+.footer-tittle {
+	width: 530px;
+	height: 40px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 50px;
+	line-height: 57px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 1px;
+
+	color: #FFFFFF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+}
